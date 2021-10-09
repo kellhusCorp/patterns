@@ -1,7 +1,0 @@
-D:\patterns_udemy\patterns\patterns\bin\Debug\patterns.exe.config
-D:\patterns_udemy\patterns\patterns\bin\Debug\patterns.exe
-D:\patterns_udemy\patterns\patterns\bin\Debug\patterns.pdb
-D:\patterns_udemy\patterns\patterns\obj\Debug\patterns.csproj.AssemblyReference.cache
-D:\patterns_udemy\patterns\patterns\obj\Debug\patterns.csproj.CoreCompileInputs.cache
-D:\patterns_udemy\patterns\patterns\obj\Debug\patterns.exe
-D:\patterns_udemy\patterns\patterns\obj\Debug\patterns.pdb

@@ -1,6 +1,6 @@
-/patterns/.vs/
-/patterns/OCP/bin
-/patterns/OCP/obj
-/patterns/SRP/bin
-/patterns/SRP/obj
-/.vs/*
+/.vs/
+/OCP/bin
+/OCP/obj
+/SRP/bin
+/SRP/obj
+
