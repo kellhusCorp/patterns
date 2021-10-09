@@ -1,0 +1,7 @@
+D:\patterns_udemy\patterns\patterns\SRP\bin\Debug\patterns.exe.config
+D:\patterns_udemy\patterns\patterns\SRP\bin\Debug\patterns.exe
+D:\patterns_udemy\patterns\patterns\SRP\bin\Debug\patterns.pdb
+D:\patterns_udemy\patterns\patterns\SRP\obj\Debug\SRP.csproj.AssemblyReference.cache
+D:\patterns_udemy\patterns\patterns\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\patterns_udemy\patterns\patterns\SRP\obj\Debug\patterns.exe
+D:\patterns_udemy\patterns\patterns\SRP\obj\Debug\patterns.pdb

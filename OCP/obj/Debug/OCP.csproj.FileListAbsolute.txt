@@ -1,0 +1,7 @@
+D:\patterns_udemy\patterns\patterns\OCP\bin\Debug\OCP.exe.config
+D:\patterns_udemy\patterns\patterns\OCP\bin\Debug\OCP.exe
+D:\patterns_udemy\patterns\patterns\OCP\bin\Debug\OCP.pdb
+D:\patterns_udemy\patterns\patterns\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+D:\patterns_udemy\patterns\patterns\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+D:\patterns_udemy\patterns\patterns\OCP\obj\Debug\OCP.exe
+D:\patterns_udemy\patterns\patterns\OCP\obj\Debug\OCP.pdb
