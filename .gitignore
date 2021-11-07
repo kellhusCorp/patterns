@@ -5,4 +5,7 @@
 /SRP/obj
 /LSP/bin
 /LSP/obj
+/IRP/IRP/bin/*
+/IRP/IRP/obj/*
+/IRP/.vs/*
 
