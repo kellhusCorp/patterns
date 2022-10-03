@@ -5,7 +5,6 @@ namespace Prototype;
 
 static class Program
 {
-    //TODO добавить фабрику прототипов
     static void Main()
     {
         var firstFoo = new Foo {Stuff = 100, Whatever = "13"};
@@ -17,5 +16,8 @@ static class Program
 
         Console.WriteLine(firstFoo);
         Console.WriteLine(secondFoo);
+
+        var firstEmployee = EmployeeFactory.NewMainOfficeEmployee("First employee", 1234);
+        Console.WriteLine(firstEmployee);
     }
 }
