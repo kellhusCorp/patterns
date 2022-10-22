@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{61BB66DF-5AD8-4B2D-8621-676D86F637B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDatabase.Tests", "SingletonDatabase.Tests\SingletonDatabase.Tests.csproj", "{2F242A2A-65AD-4745-8C23-FE3EA8E4A666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "Multiton\Multiton.csproj", "{0E5E78D9-21B4-41E3-874F-3805036B0894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BB66DF-5AD8-4B2D-8621-676D86F637B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BB66DF-5AD8-4B2D-8621-676D86F637B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BB66DF-5AD8-4B2D-8621-676D86F637B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BB66DF-5AD8-4B2D-8621-676D86F637B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F242A2A-65AD-4745-8C23-FE3EA8E4A666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F242A2A-65AD-4745-8C23-FE3EA8E4A666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F242A2A-65AD-4745-8C23-FE3EA8E4A666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F242A2A-65AD-4745-8C23-FE3EA8E4A666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5E78D9-21B4-41E3-874F-3805036B0894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5E78D9-21B4-41E3-874F-3805036B0894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5E78D9-21B4-41E3-874F-3805036B0894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5E78D9-21B4-41E3-874F-3805036B0894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
