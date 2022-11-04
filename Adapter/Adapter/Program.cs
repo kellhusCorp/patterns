@@ -1,4 +1,7 @@
-﻿namespace Adapter;
+﻿using System.Text;
+using System.Xml.Serialization;
+
+namespace Adapter;
 
 static class Program
 {
@@ -34,5 +37,14 @@ static class Program
         DrawPoints();
         DrawPoints();
         Console.ReadKey();
+        var stats = new CountryStats();
+        stats.Capitals.Add("Russia", "Moscow");
+
+        var xs = new XmlSerializer(typeof(CountryStats));
+        var sb = new StringBuilder();
+        var sw = new StringWriter(sb);
+        xs.Serialize(sw, stats);
+        var newStats = (CountryStats) xs.Deserialize(new StringReader(sb.ToString()));
+        Console.WriteLine(newStats.Capitals["Russia"]);
     }
 }
