@@ -20,6 +20,4 @@ public class Server
     
     private static readonly Dictionary<ServerType, Server>
         instances = new();
-    
-    
 }
