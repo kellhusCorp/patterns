@@ -8,6 +8,6 @@ static class Program
 
         var city = "Moscow";
 
-        Console.WriteLine($"{city} has population {db.GetPopulation(city)}");
+        Console.WriteLine($"{city} имеет популяцию в {db.GetPopulation(city)}");
     }
 }
