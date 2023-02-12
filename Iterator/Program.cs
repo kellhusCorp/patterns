@@ -18,9 +18,13 @@ internal static class Program
 
         var iterator = new InOrderIterator<int>(root);
 
-        while (iterator.MoveNext())
+        var tree = new BinaryTree<int>(root);
+
+        Console.WriteLine(string.Join(",", tree.InOrder.Select(x => x.Value)));
+
+        foreach (var node in tree)
         {
-            Console.WriteLine(iterator.Current.Value);
+            Console.WriteLine(node.Value);
         }
     }
 }
